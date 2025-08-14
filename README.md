@@ -1,2 +1,2 @@
 # BiasSurf
-Text and speech detection to determine bias, which will help people determine if it is right wing biased or left wing biased to help people arrive at their own conclusions.
+Text and speech detection to determine bias, which will help people detect bias in both spoken and written text to help restore media literacy and assist users in determining bias and drawing their own conclusions in the materials they read. Primary goals of this software include preventing propagands, stopping the spread of racist or discriminatory ideals, and improving media literacy in users.
